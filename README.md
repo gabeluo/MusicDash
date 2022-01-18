@@ -1,5 +1,7 @@
 # MusicDash
 A 2D endless platformer that builds the level in real-time based on the music playing.
+Please refer to the devpost link below for a more detailed description, pictures, and a demo video.
+https://devpost.com/software/music-daash
 
 # What is it?
 The game was developed in Unity and is a 2D endless platformer, but the platforms are created according to the bars in the music. The game uses the Spotify API to get a thorough audio analysis of the song that is playing in the background. For this demo the song chose was "Mr. Blue Sky" by Electric Light Orchestra. Due to the time constraints, the factor used to determine how the game looked was the length of each bar to keep things simple. Every time a new bar starts, a new platform is created. You will notice this in the gameplay where the new platforms appear synced up to the music.
